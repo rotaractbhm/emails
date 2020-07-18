@@ -1,0 +1,18 @@
+{
+  "name": "bulletin",
+  "author": "Rotaract Club of Birmingham",
+  "homepage": "https://rotaractbhm.org/",
+  "license": "MIT",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rotaractbhm/bulletin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rotaractbhm/bulletin/issues"
+  },
+  "dependencies": {
+    "mjml": "^4.6.3"
+  },
+  "private": true
+}
