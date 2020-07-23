@@ -1,1 +1,1 @@
-# Mailchimp Email Templates
+# Email Templates
