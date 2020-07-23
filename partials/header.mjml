@@ -1,0 +1,15 @@
+<mjml>
+  <mj-body>
+    <mj-section mj-class="px4 pt4 pb2">
+      <mj-group>
+        <mj-column width="62.5%">
+          <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/1200b73a-6481-410f-b417-d253a9a09c71.jpg" alt="*|LIST:COMPANY|* Logo" href="*|LIST:URL|*" width="144px" />
+        </mj-column>
+        <mj-column mj-class="pt1" width="37.5%">
+          <mj-text mj-class="color-gray" line-height="16px" align="right">*|DATE:F Y|*</mj-text>
+          <mj-button mj-class="button-text text-serif text-large" align="right" href="*|ARCHIVE|*">Bulletin #</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>

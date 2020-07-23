@@ -1,1 +1,1 @@
-# RotaractBHM – Monthly Bulletin Template
+# Mailchimp Email Templates

@@ -1,0 +1,25 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper mj-class="section">
+      <mj-include path="../partials/header.mjml" />
+      <mj-section mj-class="px4 py4">
+        <mj-group>
+          <mj-column>
+            <mj-text mj-class="text-serif text-largest">Letter From The President</mj-text>
+            <mj-text mj-class="text-larger text-light color-gray">President Name</mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/fa5e7f1c-4a03-4bbc-bef8-80320a867ebb.jpg" border-radius="0" fluid-on-mobile="true" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py4">
+        <mj-column>
+          <mj-text>President letter.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

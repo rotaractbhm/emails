@@ -1,0 +1,75 @@
+<mjml>
+  <mj-body>
+    <mj-include path="./spacer.mjml" />
+    <mj-wrapper mj-class="section px2 py4">
+      <mj-section mj-class="px2 pb2">
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Club Sponsors</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">2020-2021</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px2 pb2">
+        <mj-column>
+          <mj-text>Our sincerest gratitude to all of our sponsors for their continued support of our civic endeavors. Their generous contributions ensure that we are able to continue our mission of developing young leaders to become actively engaged in building a better community, region and world.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="pb2">
+        <mj-group>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/d280c6cf-2467-4f52-9af0-bd958b2fe09b.png" alt="AmWINS" href="https://www.amwins.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/e47e9a6d-d792-4d48-8c5b-203631b0de9f.png" alt="Bradley" href="https://www.bradley.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/7cfcf5af-def8-4178-8861-9284054b42e8.png" alt="Butler Snow" href="https://www.butlersnow.com/" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="pb2">
+        <mj-group>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/74c1ae9a-f732-48a3-816e-19efd6a70787.png" alt="The Daniel Foundation of Alabama" href="http://danielfoundationofalabama.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/e70d453d-8110-49ae-ba94-18e0a56dbad0.png" alt="Joseph S. Bruno Charitable Foundation" href="https://jsbcf.org/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/3c6f1f80-241a-47d2-bc31-86b3b93932c9.png" alt="Medical Properties Trust" href="https://medicalpropertiestrust.com/" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="pb2">
+        <mj-group>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/1f89f8bf-d0d2-4fa4-84de-8778e47b1d73.png" alt="Meld Financial" href="https://meldfinancial.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/b7e49134-27f7-4850-b11e-2efdd0dcefd1.png" alt="Protective" href="https://www.protective.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/7d2c71f9-967c-4b77-9692-0191097d2e60.png" alt="Regions" href="https://www.regions.com/" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="pb2">
+        <mj-group>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/b3a93e97-91af-4f31-aee4-dd9d2db9ec02.png" alt="Robert R. Meyer Foundation" href="https://www.bhamwiki.com/w/Robert_R._Meyer_Foundation" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/03032f7b-9c4d-4f79-b86b-829a9b923382.png" alt="RSM" href="https://rsmus.com/" />
+          </mj-column>
+          <mj-column vertical-align="top">
+            <mj-image mj-class="px2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/d7712151-5471-4149-ab3c-7b775e149da5.png" alt="Vulcan Materials Company" href="https://www.vulcanmaterials.com/" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="px2">
+        <mj-column>
+          <mj-button mj-class="button-wide py0" href="*|LIST:URL|*sponsors/">Support our initiatives, become a sponsor</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

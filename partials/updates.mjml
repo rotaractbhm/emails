@@ -1,0 +1,22 @@
+<mjml>
+  <mj-body>
+    <mj-include path="./spacer.mjml" />
+    <mj-wrapper mj-class="section">
+      <mj-section mj-class="px4 py4">
+        <mj-column>
+          <mj-text mj-class="pb2 text-serif text-largest">Member Updates</mj-text>
+          <mj-text>
+            <ul class="list">
+              <li>Member update.</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py3 border-top">
+        <mj-column>
+          <mj-text mj-class="color-gray">Have an update regarding your business, civic or personal life? Let us know! <a href="mailto:pr@rotaractbhm.org">Email us and we'll share your big news with the Club.</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

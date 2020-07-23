@@ -1,0 +1,20 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper mj-class="px4 py4">
+      <mj-section>
+        <mj-column>
+          <mj-image mj-class="pb1" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/2886d508-18d0-4a87-bd98-b5b845113173.jpg" alt="Rotaract Icon" href="*|LIST:URL|*" width="48px" align="center"></mj-image>
+          <mj-text mj-class="py1 color-gray" align="center">Developing young leaders to be actively&nbsp;engaged in building a better community,&nbsp;region&nbsp;and&nbsp;world.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path="./social.mjml" />
+      <mj-section>
+        <mj-column>
+          <mj-text mj-class="pt1 text-small color-gray" align="center">*|LIST:ADDRESSLINE|*</mj-text>
+          <mj-text mj-class="pt1 text-small color-gray" align="center">*|LIST:DESCRIPTION|*</mj-text>
+          <mj-text mj-class="pt1 text-small color-gray" align="center"><a href="*|UPDATE_PROFILE|*">Update preferences</a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="*|UNSUB|*">Unsubscribe</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

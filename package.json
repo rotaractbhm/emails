@@ -1,17 +1,21 @@
 {
-  "name": "bulletin",
+  "name": "emails",
   "author": "Rotaract Club of Birmingham",
-  "homepage": "https://rotaractbhm.org/",
+  "homepage": "https://www.rotaractbhm.org/",
   "license": "MIT",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rotaractbhm/bulletin.git"
+    "url": "git@github.com:rotaractbhm/emails.git"
   },
   "bugs": {
-    "url": "https://github.com/rotaractbhm/bulletin/issues"
+    "url": "https://github.com/rotaractbhm/emails/issues"
   },
-  "dependencies": {
+  "scripts": {
+    "build": "./node_modules/.bin/mjml templates/bulletin.mjml --config.minify -o dist/bulletin.html",
+    "build:watch": "./node_modules/.bin/mjml -w templates/bulletin.mjml --config.minify -o dist/bulletin.html"
+  },
+  "devDependencies": {
     "mjml": "^4.6.3"
   },
   "private": true

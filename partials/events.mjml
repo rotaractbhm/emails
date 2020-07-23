@@ -1,0 +1,53 @@
+<mjml>
+  <mj-body>
+    <mj-include path="./spacer.mjml" />
+    <mj-wrapper mj-class="section">
+      <mj-section mj-class="px4 pt4">
+        <mj-group>
+          <mj-column>
+            <mj-button mj-class="button-text text-serif text-largest" href="*|LIST:URL|*events/">Event Schedule</mj-button>
+            <mj-text mj-class="text-larger text-light color-gray">*|DATE:F Y|*</mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="pl4 pr2 py2">
+        <mj-group>
+          <mj-column mj-class="py2" width="75%">
+            <mj-button mj-class="button-text text-serif text-larger" href="*|LIST:URL|*events/">Event Title</mj-button>
+            <mj-text mj-class="py1 color-sky-blue">Location Name, Month Day @ Time</mj-text>
+            <mj-text>Event description.</mj-text>
+            <mj-button mj-class="pb0" href="*|LIST:URL|*events/">Button</mj-button>
+            <mj-text mj-class="pt2">Supplemental information.</mj-text>
+          </mj-column>
+          <mj-column mj-class="pl2" width="25%">
+            <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" href="*|LIST:URL|*events/" />
+            <mj-button mj-class="button-tag button-learn">Learn</mj-button>
+            <mj-button mj-class="button-tag button-socialize">Socialize</mj-button>
+            <mj-button mj-class="button-tag button-serve">Serve</mj-button>
+            <mj-button mj-class="button-tag button-virtual">Virtual</mj-button>
+            <mj-button mj-class="button-tag button-members">Members Only</mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="pl4 pr2 py2 border-top">
+        <mj-group>
+          <mj-column mj-class="py2" width="75%">
+            <mj-button mj-class="button-text text-serif text-larger" href="*|LIST:URL|*events/">Event Title</mj-button>
+            <mj-text mj-class="py1 color-sky-blue">Location Name, Month Day @ Time</mj-text>
+            <mj-text>Event description.</mj-text>
+            <mj-button mj-class="pb0" href="*|LIST:URL|*events/">Button</mj-button>
+            <mj-text mj-class="pt2">Supplemental information.</mj-text>
+          </mj-column>
+          <mj-column mj-class="pl2" width="25%">
+            <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="Event Image" href="*|LIST:URL|*events/" />
+            <mj-button mj-class="button-tag button-learn">Learn</mj-button>
+            <mj-button mj-class="button-tag button-socialize">Socialize</mj-button>
+            <mj-button mj-class="button-tag button-serve">Serve</mj-button>
+            <mj-button mj-class="button-tag button-virtual">Virtual</mj-button>
+            <mj-button mj-class="button-tag button-members">Members Only</mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

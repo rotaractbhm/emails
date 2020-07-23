@@ -1,0 +1,44 @@
+<mjml>
+  <mj-body>
+    <mj-include path="./spacer.mjml" />
+    <mj-wrapper mj-class="section">
+      <mj-section mj-class="px4 pt4 pb3">
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Luncheon Speakers</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">Speaker Name &amp; Speaker Name</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px1">
+        <mj-column mj-class="px1 py1">
+          <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" href="*|LIST:URL|*events/" fluid-on-mobile="true" />
+        </mj-column>
+        <mj-column mj-class="px1 py1">
+          <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" href="*|LIST:URL|*events/" fluid-on-mobile="true" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 pt3 pb4">
+        <mj-column>
+          <mj-button mj-class="button-text text-serif text-larger" href="*|LIST:URL|*events/">Speaker Name</mj-button>
+          <mj-text mj-class="text-large color-gray">Speaker Title</mj-text>
+          <mj-text mj-class="py1 color-sky-blue">Location Name, Month Day @ Time</mj-text>
+          <mj-text>Speaker biography.</mj-text>
+          <mj-button mj-class="pb0" href="*|LIST:URL|*events/">Button</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py4 border-top">
+        <mj-column>
+          <mj-button mj-class="button-text text-serif text-larger" href="*|LIST:URL|*events/">Speaker Name</mj-button>
+          <mj-text mj-class="text-large color-gray">Speaker Title</mj-text>
+          <mj-text mj-class="py1 color-sky-blue">Location Name, Month Day @ Time</mj-text>
+          <mj-text>Speaker biography.</mj-text>
+          <mj-button mj-class="pb0" href="*|LIST:URL|*events/">Button</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py3 border-top">
+        <mj-column>
+          <mj-text mj-class="color-gray">If you would like to invite a guest to lunch, please email <a href="mailto:recruitment@rotaractbhm.org">VP Recruitment Name</a>.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
