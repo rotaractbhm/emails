@@ -1,6 +1,6 @@
 <mjml>
   <mj-body>
-    <mj-include path="./spacer.mjml" />
+    <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section px2 py4">
       <mj-section mj-class="px2 pb2">
         <mj-column>

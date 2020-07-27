@@ -1,0 +1,43 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper mj-class="section">
+      <mj-include path="../shared/header.mjml" />
+      <mj-section mj-class="px4 pb3">
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Heading</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">Subheading</mj-text>
+          <mj-text mj-class="pt2">Primary information</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px1">
+        <mj-column mj-class="px1 py1">
+          <mj-image mj-class="pb1" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" fluid-on-mobile="true" href="*|LIST:URL|*" />
+          <mj-text mj-class="text-serif text-large" align="center">Name</mj-text>
+          <mj-text align="center">Subtitle</mj-text>
+        </mj-column>
+        <mj-column mj-class="px1 py1">
+          <mj-image mj-class="pb1" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" fluid-on-mobile="true" href="*|LIST:URL|*" />
+          <mj-text mj-class="text-serif text-large" align="center">Name</mj-text>
+          <mj-text align="center">Subtitle</mj-text>
+        </mj-column>
+        <mj-column mj-class="px1 py1">
+          <mj-image mj-class="pb1" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" fluid-on-mobile="true" href="*|LIST:URL|*" />
+          <mj-text mj-class="text-serif text-large" align="center">Name</mj-text>
+          <mj-text align="center">Subtitle</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 pt3 pb4">
+        <mj-column>
+          <mj-text>Secondary information</mj-text>
+          <mj-button mj-class="pb0" href="*|LIST:URL|*">Button</mj-button>
+          <mj-text mj-class="pt2">Tertiary information</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py3 border-top">
+        <mj-column>
+          <mj-text mj-class="text-small color-gray">Footnote</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,7 +1,0 @@
-<mjml lang="en">
-  <mj-include path="../partials/head.mjml" />
-  <mj-body>
-    <mj-include path="../partials/archive.mjml" />
-    <mj-include path="../partials/footer.mjml" />
-  </mj-body>
-</mjml>

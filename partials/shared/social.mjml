@@ -8,6 +8,7 @@
           <mj-social-element href="https://twitter.com/rotaractbhm/" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/af2d7b7b-eee1-453c-88ac-6c02605ddb72.jpg"></mj-social-element>
           <mj-social-element href="https://instagram.com/rotaractbhm/" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/e306e853-d9ba-4503-b5a7-3c4d8f627512.jpg"></mj-social-element>
           <mj-social-element href="https://vimeo.com/rotaractbhm/" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/4006a144-33c1-4a45-b3a6-0457e3eb356c.jpg"></mj-social-element>
+        </mj-social>
       </mj-column>
     </mj-section>
   </mj-body>

@@ -12,8 +12,8 @@
     "url": "https://github.com/rotaractbhm/emails/issues"
   },
   "scripts": {
-    "build": "./node_modules/.bin/mjml templates/bulletin.mjml --config.minify -o dist/bulletin.html",
-    "build:watch": "./node_modules/.bin/mjml -w templates/bulletin.mjml --config.minify -o dist/bulletin.html"
+    "build": "./node_modules/.bin/mjml templates/*.mjml --config.minify -o dist/",
+    "build:watch": "./node_modules/.bin/mjml -w templates/*.mjml --config.minify -o dist/"
   },
   "devDependencies": {
     "mjml": "^4.6.3"

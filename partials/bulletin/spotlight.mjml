@@ -1,6 +1,6 @@
 <mjml>
   <mj-body>
-    <mj-include path="./spacer.mjml" />
+    <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section px2 py1">
       <mj-section>
         <mj-column mj-class="py1" width="30%">
@@ -9,7 +9,7 @@
         <mj-column mj-class="px2 py3" width="70%">
           <mj-text mj-class="text-serif text-largest">Member Spotlight</mj-text>
           <mj-text mj-class="pb2 text-larger text-light color-gray">Member Name</mj-text>
-          <mj-text>Member information.</mj-text>
+          <mj-text>Member information</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>

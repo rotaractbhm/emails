@@ -1,6 +1,6 @@
 <mjml>
   <mj-body>
-    <mj-include path="./spacer.mjml" />
+    <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
       <mj-section mj-class="px4 pt4">
         <mj-column>
@@ -10,18 +10,18 @@
       </mj-section>
       <mj-section mj-class="px4 py2">
         <mj-column>
-          <mj-text>Rotaract board meetings are open to all members. Meetings are held at 5:30pm, unless noted otherwise. Please reach out to any member of the board if you are interested in attending.</mj-text>
+          <mj-text>Rotaract Board meetings are open to all Club members. Meetings are held at 5:30pm, unless noted otherwise. Please reach out to any Board member if you are interested in attending.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section mj-class="px4 pb4">
         <mj-group>
           <mj-column mj-class="pr2">
             <mj-text mj-class="text-serif text-large">Month Day</mj-text>
-            <mj-text>Location Name<br>Street Address</mj-text>
+            <mj-text>Location Name<br>Location Address</mj-text>
           </mj-column>
           <mj-column mj-class="pl2">
             <mj-text mj-class="text-serif text-large">Month Day</mj-text>
-            <mj-text>Location Name<br>Street Address</mj-text>
+            <mj-text>Location Name<br>Location Address</mj-text>
           </mj-column>
         </mj-group>
       </mj-section>

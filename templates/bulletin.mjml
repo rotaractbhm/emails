@@ -1,16 +1,15 @@
 <mjml lang="en">
-  <mj-include path="../partials/head.mjml" />
+  <mj-include path="../partials/shared/head.mjml" />
   <mj-body>
-    <mj-include path="../partials/archive.mjml" />
-    <mj-include path="../partials/letter.mjml" />
-    <mj-include path="../partials/speakers.mjml" />
-    <mj-include path="../partials/events.mjml" />
-    <mj-include path="../partials/miscellaneous.mjml" />
-    <mj-include path="../partials/updates.mjml" />
-    <mj-include path="../partials/spotlight.mjml" />
-    <mj-include path="../partials/board.mjml" />
-    <mj-include path="../partials/rotary.mjml" />
-    <!-- <mj-include path="../partials/sponsors.mjml" /> -->
-    <mj-include path="../partials/footer.mjml" />
+    <mj-include path="../partials/shared/archive.mjml" />
+    <mj-include path="../partials/bulletin/letter.mjml" />
+    <mj-include path="../partials/bulletin/speakers.mjml" />
+    <mj-include path="../partials/bulletin/events.mjml" />
+    <mj-include path="../partials/bulletin/miscellaneous.mjml" />
+    <mj-include path="../partials/bulletin/updates.mjml" />
+    <mj-include path="../partials/bulletin/spotlight.mjml" />
+    <mj-include path="../partials/bulletin/board.mjml" />
+    <mj-include path="../partials/bulletin/rotary.mjml" />
+    <mj-include path="../partials/shared/footer.mjml" />
   </mj-body>
 </mjml>

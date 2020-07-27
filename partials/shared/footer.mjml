@@ -12,7 +12,7 @@
         <mj-column>
           <mj-text mj-class="pt1 text-small color-gray" align="center">*|LIST:ADDRESSLINE|*</mj-text>
           <mj-text mj-class="pt1 text-small color-gray" align="center">*|LIST:DESCRIPTION|*</mj-text>
-          <mj-text mj-class="pt1 text-small color-gray" align="center"><a href="*|UPDATE_PROFILE|*">Update preferences</a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="*|UNSUB|*">Unsubscribe</a></mj-text>
+          <mj-text mj-class="pt1 text-small color-gray" align="center"><a href="*|UPDATE_PROFILE|*" style="color: #808080;">Update preferences</a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="*|UNSUB|*" style="color: #808080;">Unsubscribe</a></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>

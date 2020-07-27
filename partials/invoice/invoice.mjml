@@ -1,0 +1,65 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper mj-class="section">
+      <mj-include path="../shared/header.mjml" />
+      <mj-section mj-class="px4 pb3">
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Membership Dues</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">YYYY - YYYY</mj-text>
+          <mj-text mj-class="pt2">*|FNAME|* &ndash; please see the invoice below for your annual Rotaract membership dues. This invoice is due and payable upon receipt. Please remit payment by <strong>August 1st, *|CURRENT_YEAR|*</strong>&sup1; either online, by credit card at a luncheon or by check. Thank you in advance for your prompt payment and your continued support of our community and Club!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px2">
+        <mj-column>
+          <mj-table>
+            <tr style="border-bottom: 1px solid #ebebeb;">
+              <th style="padding: 8px 8px 8px 16px; text-align: left; vertical-align: top; white-space: nowrap;" width="100%">Description</th>
+              <th style="padding: 8px; text-align: left; vertical-align: top; white-space: nowrap;">Quantity</th>
+              <th style="padding: 8px 16px 8px 8px; text-align: left; vertical-align: top; white-space: nowrap;">Amount</th>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding: 2px 8px;"></td>
+            </tr>
+            <tr>
+              <td style="padding: 4px 8px 4px 16px; vertical-align: top;" width="100%">Membership Dues&sup2;</td>
+              <td style="padding: 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">1</td>
+              <td style="padding: 4px 16px 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">$350</td>
+            </tr>
+            <tr>
+              <td style="padding: 4px 8px 4px 16px; vertical-align: top;" width="100%">Foundation Endowment</td>
+              <td style="padding: 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">1</td>
+              <td style="padding: 4px 16px 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">$20</td>
+            </tr>
+            <tr>
+              <td style="padding: 4px 8px 4px 16px; vertical-align: top;" width="100%">Foundation Ball Tickets&sup3;</td>
+              <td style="padding: 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">2</td>
+              <td style="padding: 4px 16px 4px 8px; text-align: right; vertical-align: top; white-space: nowrap;">$100</td>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding: 2px 8px;"></td>
+            </tr>
+            <tr style="border-top: 1px solid #ebebeb;">
+              <td style="padding: 8px 8px 8px 16px; font-weight: 600; vertical-align: top;" colspan="2">Total Due</td>
+              <td style="padding: 8px 16px 8px 8px; font-weight: 600; text-align: right; vertical-align: top; white-space: nowrap;">$470</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 pt3 pb4">
+        <mj-column>
+          <mj-button mj-class="pt0" href="*|LIST:URL|*">Pay membership dues</mj-button>
+          <mj-text>If paying by check, ensure your name listed in the memo line. Please remit payment to:</mj-text>
+          <mj-text mj-class="pl2 py2"><strong>Attention:</strong> Treasurer<br><strong>*|LIST:COMPANY|*</strong><br>PO Box 13798<br>Birmingham, AL 35202</mj-text>
+          <mj-text>Please contact <a href="mailto:finance@rotaractbhm.org">VP Finance</a> should you have any questions regarding your invoice or would like assistance in the form of an employer letter.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py3 border-top">
+        <mj-column>
+          <mj-text mj-class="text-small color-gray">&sup1; Payments not received within thirty (30) days of the invoice date will be subject to a $25 late fee.</mj-text>
+          <mj-text mj-class="pt2 text-small color-gray">&sup2; Semi-annual installment plans are also available (subject to a $5 convenience fee per payment), for two (2) payments of $190 in lieu of one (1) $370 payment. Please note that if you choose to pay in installments, you remain obligated to pay both installments even if you choose to leave the Club at any time during the year.</mj-text>
+          <mj-text mj-class="pt2 text-small color-gray">&sup3; Members are required to purchase two (2) tickets for the annual Foundation Ball benefitting the Rotaract Club of Birmingham Foundation. Members may purchase their Foundation Ball tickets early to fulfill all financial obligations for the term. Should you opt to not purchase tickets at this time you will be invoiced in January.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

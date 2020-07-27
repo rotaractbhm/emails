@@ -1,0 +1,60 @@
+<mjml>
+  <mj-body>
+    <mj-include path="../shared/spacer.mjml" />
+    <mj-wrapper mj-class="section">
+      <mj-section mj-class="px4 pt4 pb2">
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Rotary Clubs of Birmingham</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">Meeting Schedule</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4">
+        <mj-column>
+          <mj-text>Rotaract Club members are invited to attend each of the following local Rotary Club meetings. See below for details regarding dates, speakers and attendance.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py4">
+        <mj-column>
+          <mj-button mj-class="button-text text-serif text-larger" href="http://www.birminghamrotary.org/">Rotary Club of Birmingham</mj-button>
+          <mj-button mj-class="button-text text-large text-light color-gray" href="https://goo.gl/maps/TgxDUrSMcf68DmMm7">Harbert Center</mj-button>
+          <mj-text mj-class="py1 datetime">Wednesdays at 12:00pm</mj-text>
+          <mj-table>
+            <tr>
+              <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
+              <td width="100%">Speaker Name, Speaker Title</td>
+            </tr>
+          </mj-table>
+          <mj-text mj-class="pt1">Description and/or information</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py4 border-top">
+        <mj-column>
+          <mj-button mj-class="button-text text-serif text-larger" href="https://www.birminghamsunriserotary.org/">Birmingham Sunrise Rotary Club</mj-button>
+          <mj-button mj-class="button-text text-large text-light color-gray" href="https://goo.gl/maps/TgxDUrSMcf68DmMm7">Harbert Center</mj-button>
+          <mj-text mj-class="py1 datetime">Tuesdays at 7:00am</mj-text>
+          <mj-table>
+            <tr>
+              <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
+              <td width="100%">Speaker Name, Speaker Title</td>
+            </tr>
+          </mj-table>
+          <mj-text mj-class="pt1">Description and/or information</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py4 border-top">
+        <mj-column>
+          <mj-button mj-class="button-text text-serif text-larger" href="http://shadesvalleyrotary.org/">Rotary Club of Shades Valley</mj-button>
+          <mj-button mj-class="button-text text-large text-light color-gray" href="https://goo.gl/maps/s21ccau9To2pqN2a9">Birmingham Botanical Gardens</mj-button>
+          <mj-text mj-class="py1 datetime">Mondays at 12:30pm</mj-text>
+          <mj-table>
+            <tr>
+              <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
+              <td width="100%">Speaker Name, Speaker Title</td>
+            </tr>
+          </mj-table>
+          <mj-text mj-class="pt1">Description and/or information</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
