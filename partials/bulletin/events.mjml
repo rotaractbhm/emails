@@ -2,7 +2,7 @@
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
-      <mj-section mj-class="px4 py4">
+      <mj-section mj-class="px2 pt2">
         <mj-group>
           <mj-column>
             <mj-text mj-class="text-serif text-largest">Event Schedule</mj-text>
@@ -10,9 +10,9 @@
           </mj-column>
         </mj-group>
       </mj-section>
-      <mj-section mj-class="pl4 pr2 py2 border-top">
+      <mj-section mj-class="py2">
         <mj-group>
-          <mj-column mj-class="py2" width="75%">
+          <mj-column mj-class="px2 pt2" width="75%">
             <mj-text mj-class="text-serif text-larger">Event Heading</mj-text>
             <mj-text mj-class="text-large text-light color-gray">Location Name</mj-text>
             <mj-text mj-class="py1 datetime">Month Day at Time</mj-text>
@@ -20,7 +20,27 @@
             <mj-button mj-class="pb0" href="*|LIST:URL|*">Button</mj-button>
             <mj-text mj-class="pt2">Secondary information</mj-text>
           </mj-column>
-          <mj-column mj-class="pl2" width="25%">
+          <mj-column width="25%">
+            <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" />
+            <mj-button mj-class="tag tag-learn">Learn</mj-button>
+            <mj-button mj-class="tag tag-socialize">Socialize</mj-button>
+            <mj-button mj-class="tag tag-serve">Serve</mj-button>
+            <mj-button mj-class="tag tag-virtual">Virtual</mj-button>
+            <mj-button mj-class="tag tag-members">Members Only</mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="py2">
+        <mj-group>
+          <mj-column mj-class="px2 pt2" width="75%">
+            <mj-text mj-class="text-serif text-larger">Event Heading</mj-text>
+            <mj-text mj-class="text-large text-light color-gray">Location Name</mj-text>
+            <mj-text mj-class="py1 datetime">Month Day at Time</mj-text>
+            <mj-text>Primary information</mj-text>
+            <mj-button mj-class="pb0" href="*|LIST:URL|*">Button</mj-button>
+            <mj-text mj-class="pt2">Secondary information</mj-text>
+          </mj-column>
+          <mj-column width="25%">
             <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" />
             <mj-button mj-class="tag tag-learn">Learn</mj-button>
             <mj-button mj-class="tag tag-socialize">Socialize</mj-button>

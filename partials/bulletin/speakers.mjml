@@ -1,25 +1,26 @@
 <mjml>
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
-    <mj-wrapper mj-class="section">
-      <mj-section mj-class="px4 pt4 pb3">
+    <mj-wrapper>
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="text-serif text-largest">Luncheon Speakers</mj-text>
           <mj-text mj-class="pb2 text-larger text-light color-gray">Speaker Name &amp; Speaker Name</mj-text>
           <mj-text>Club luncheons are held in Beeson Hall on the third floor of the <a href="https://goo.gl/maps/TgxDUrSMcf68DmMm7">Harbert Center</a>. If you would like to invite a guest to lunch, please email <a href="mailto:recruitment@rotaractbhm.org">VP Recruitment</a>.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class="px1 pb1">
-        <mj-column mj-class="px1 py1">
-          <mj-image mj-class="pb2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" fluid-on-mobile="true" />
+      <mj-section>
+        <mj-column width="48.66667%">
+          <mj-image mj-class="pt2 pb4" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" fluid-on-mobile="true" />
           <mj-text mj-class="px2 text-serif text-larger">Speaker Name</mj-text>
           <mj-text mj-class="px2 text-large text-light color-gray">Speaker Title</mj-text>
           <mj-text mj-class="px2 py1 datetime">Month Day at Time</mj-text>
           <mj-text mj-class="px2 pb2">Speaker biography</mj-text>
           <mj-button mj-class="px2 pt0" href="*|LIST:URL|*">Button</mj-button>
         </mj-column>
-        <mj-column mj-class="px1 py1">
-          <mj-image mj-class="pb2" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" fluid-on-mobile="true" />
+        <mj-column width="2.66667%"></mj-column>
+        <mj-column width="48.66667%">
+          <mj-image mj-class="pt2 pb4" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" fluid-on-mobile="true" />
           <mj-text mj-class="px2 text-serif text-larger">Speaker Name</mj-text>
           <mj-text mj-class="px2 text-large text-light color-gray">Speaker Title</mj-text>
           <mj-text mj-class="px2 py1 datetime">Month Day at Time</mj-text>

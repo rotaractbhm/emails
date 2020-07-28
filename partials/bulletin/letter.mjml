@@ -1,8 +1,9 @@
 <mjml>
   <mj-body>
-    <mj-wrapper mj-class="section">
+    <mj-include path="../shared/spacer.mjml" />
+    <mj-wrapper>
       <mj-include path="../shared/header.mjml" />
-      <mj-section mj-class="px2 pb4">
+      <mj-section mj-class="pb2">
         <mj-column>
           <mj-text mj-class="px2 text-serif text-largest">Letter From The President</mj-text>
           <mj-text mj-class="px2 text-larger text-light color-gray">President Name</mj-text>

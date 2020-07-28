@@ -1,6 +1,7 @@
 <mjml>
   <mj-body>
-    <mj-wrapper mj-class="px4 py4">
+    <mj-include path="./spacer.mjml" />
+    <mj-wrapper mj-class="px2 pt2 pb4">
       <mj-section>
         <mj-column>
           <mj-image mj-class="pb1" src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/2886d508-18d0-4a87-bd98-b5b845113173.jpg" alt="Rotaract Logo" width="48px" align="center"></mj-image>

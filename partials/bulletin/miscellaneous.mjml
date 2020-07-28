@@ -1,7 +1,7 @@
 <mjml>
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
-    <mj-wrapper mj-class="section px4 py4">
+    <mj-wrapper mj-class="section px2 py2">
       <mj-section>
         <mj-column>
           <mj-text mj-class="text-serif text-largest">Heading</mj-text>

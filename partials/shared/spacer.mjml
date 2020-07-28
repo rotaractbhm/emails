@@ -2,7 +2,7 @@
   <mj-body>
     <mj-section>
       <mj-column>
-        <mj-spacer />
+        <mj-divider />
       </mj-column>
     </mj-section>
   </mj-body>

@@ -2,19 +2,15 @@
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
-      <mj-section mj-class="px4 py4">
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="pb2 text-serif text-largest">Member Updates</mj-text>
-          <mj-text>
+          <mj-text mj-class="pb2">
             <ul class="list">
               <li>Member update</li>
             </ul>
           </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section mj-class="px4 py3 border-top">
-        <mj-column>
-          <mj-text mj-class="text-small color-gray">Have an update regarding your business, civic or personal life? Let us know! <a href="mailto:communications@rotaractbhm.org">Send us an email and we'll share your big news with the Club.</a></mj-text>
+          <mj-text>Have an update regarding your business, civic or personal life? Let us know! <a href="mailto:communications@rotaractbhm.org">Send us an email and we'll share your big news with the Club.</a></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>

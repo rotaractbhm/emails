@@ -1,6 +1,6 @@
 <mjml>
   <mj-body>
-    <mj-section mj-class="px4 py4">
+    <mj-section mj-class="px2 pb4">
       <mj-group>
         <mj-column width="62.5%" vertical-align="middle">
           <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/1200b73a-6481-410f-b417-d253a9a09c71.jpg" alt="*|LIST:COMPANY|* Logo" href="*|LIST:URL|*" width="144px" align="left" />

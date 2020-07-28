@@ -2,7 +2,7 @@
   <mj-body>
     <mj-section>
       <mj-column>
-        <mj-text mj-class="px1 py1 text-small text-center">
+        <mj-text mj-class="px2 pt2 text-small text-center">
           <a href="*|ARCHIVE|*" style="color: gray;">Read this email in your browser</a>
         </mj-text>
       </mj-column>

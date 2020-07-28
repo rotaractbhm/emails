@@ -1,12 +1,12 @@
 <mjml>
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
-    <mj-wrapper mj-class="section px2 py1">
-      <mj-section>
-        <mj-column mj-class="py1" width="30%">
+    <mj-wrapper mj-class="section">
+      <mj-section mj-class="py2">
+        <mj-column width="30%">
           <mj-image src="https://mcusercontent.com/1ed4e0355083b8f6bcb10d81a/images/ff7241e3-e503-44e0-8480-c1e859529032.jpg" alt="" fluid-on-mobile="true" />
         </mj-column>
-        <mj-column mj-class="px2 py3" width="70%">
+        <mj-column mj-class="px2 py2" width="70%">
           <mj-text mj-class="text-serif text-largest">Member Spotlight</mj-text>
           <mj-text mj-class="pb2 text-larger text-light color-gray">Member Name</mj-text>
           <mj-text>Member information</mj-text>

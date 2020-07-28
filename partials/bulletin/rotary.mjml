@@ -2,14 +2,14 @@
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
-      <mj-section mj-class="px4 py4">
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="text-serif text-largest">Rotary Clubs of Birmingham</mj-text>
           <mj-text mj-class="pb2 text-larger text-light color-gray">Meeting Schedule</mj-text>
           <mj-text>Rotaract Club members are invited to attend each of the following local Rotary Club meetings. See below for details regarding dates, speakers and attendance.</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class="px4 py4 border-top">
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="text-serif text-larger">Rotary Club of Birmingham</mj-text>
           <mj-text mj-class="text-large text-light color-gray">Harbert Center</mj-text>
@@ -23,7 +23,7 @@
           <mj-text mj-class="pt1">Description and/or information</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class="px4 py4 border-top">
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="text-serif text-larger">Birmingham Sunrise Rotary Club</mj-text>
           <mj-text mj-class="text-large text-light color-gray">Harbert Center</mj-text>
@@ -37,7 +37,7 @@
           <mj-text mj-class="pt1">Description and/or information</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class="px4 py4 border-top">
+      <mj-section mj-class="px2 py2">
         <mj-column>
           <mj-text mj-class="text-serif text-larger">Rotary Club of Shades Valley</mj-text>
           <mj-text mj-class="text-large text-light color-gray">Birmingham Botanical Gardens</mj-text>
