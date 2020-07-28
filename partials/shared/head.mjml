@@ -6,27 +6,21 @@
     <mj-font name="Source Serif Pro" href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600&display=swap" />
     <mj-breakpoint width="432px"></mj-breakpoint>
     <mj-attributes>
-      <mj-all font-family="Source Sans Pro, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="14px" color="#404040" line-height="20px" letter-spacing="-0.2px"></mj-all>
+      <mj-all padding="0" font-family="Source Sans Pro, ui-sans-serif, sans-serif" font-size="14px" color="#404040" line-height="20px"></mj-all>
       <mj-body background-color="#f5f5f5"></mj-body>
-      <mj-wrapper padding="0"></mj-wrapper>
-      <mj-section padding="0"></mj-section>
-      <mj-image padding="0" border-radius="4px" align="left"></mj-image>
-      <mj-text padding="0"></mj-text>
-      <mj-button padding="16px 0" inner-padding="8px 16px" background-color="#c5205a" border-radius="4px" color="#fff" align="left" vertical-align="top"></mj-button>
-      <mj-table padding="0"></mj-table>
-      <mj-social padding="0"></mj-social>
-      <mj-social-element padding="8px" icon-size="20px"></mj-social-element>
+      <mj-image border-radius="4px"></mj-image>
+      <mj-button padding="16px 0" inner-padding="8px 16px" background-color="#c5205a" border-radius="4px" color="white" align="left"></mj-button>
+      <mj-social-element padding="8px"></mj-social-element>
       <mj-spacer height="16px"></mj-spacer>
 
-      <mj-class name="section" background-color="#fff" border-radius="4px"></mj-class>
-      <mj-class name="button-wide" width="100%"></mj-class>
-      <mj-class name="button-tag" padding-top="4px" padding-bottom="0" inner-padding="4px 0" font-size="10px" font-weight="600" line-height="12px" letter-spacing="0" text-transform="uppercase" width="100%"></mj-class>
-      <mj-class name="button-text" padding="0" inner-padding="0" background-color="transparent" text-align="left"></mj-class>
-      <mj-class name="button-learn" background-color="#e8d3e5" color="#872175"></mj-class>
-      <mj-class name="button-socialize" background-color="#cee8e8" color="#018d8d"></mj-class>
-      <mj-class name="button-serve" background-color="#ffe5ce" color="#ff7600"></mj-class>
-      <mj-class name="button-virtual" background-color="#d0d9e6" color="#0c3d7d"></mj-class>
-      <mj-class name="button-members" background-color="#f4ced9" color="#c10042"></mj-class>
+      <mj-class name="section" background-color="white" border-radius="4px"></mj-class>
+      <mj-class name="button-text" padding="0" inner-padding="0" background-color="transparent"></mj-class>
+      <mj-class name="tag" padding="4px 0 0" inner-padding="0" font-size="10px" font-weight="600" text-transform="uppercase" width="100%"></mj-class>
+      <mj-class name="tag-learn" background-color="#e8d3e5" color="#872175"></mj-class>
+      <mj-class name="tag-socialize" background-color="#cee8e8" color="#018d8d"></mj-class>
+      <mj-class name="tag-serve" background-color="#ffe5ce" color="#ff7600"></mj-class>
+      <mj-class name="tag-virtual" background-color="#d0d9e6" color="#0c3d7d"></mj-class>
+      <mj-class name="tag-members" background-color="#f4ced9" color="#c10042"></mj-class>
       <mj-class name="datetime" color="#019fcb"></mj-class>
 
       <mj-class name="px0" padding-left="0" padding-right="0"></mj-class>
@@ -78,7 +72,9 @@
       <mj-class name="text-bold" font-weight="600"></mj-class>
       <mj-class name="text-light" font-weight="300"></mj-class>
 
-      <mj-class name="color-gray" color="#808080"></mj-class>
+      <mj-class name="color-gray" color="gray"></mj-class>
+
+      <mj-class name="text-center" align="center"></mj-class>
     </mj-attributes>
     <mj-style>
       strong {
@@ -92,7 +88,6 @@
       }
 
       a:hover {
-        color: #c5205a;
         text-decoration: none;
       }
 

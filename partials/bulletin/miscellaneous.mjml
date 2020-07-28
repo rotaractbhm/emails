@@ -2,15 +2,11 @@
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section px4 py4">
-      <mj-section mj-class="pb2">
-        <mj-column>
-          <mj-text mj-class="text-serif text-largest">Section Heading</mj-text>
-          <mj-text mj-class="text-larger text-light color-gray">Section Subheading</mj-text>
-        </mj-column>
-      </mj-section>
       <mj-section>
         <mj-column>
-          <mj-text>Section information</mj-text>
+          <mj-text mj-class="text-serif text-largest">Heading</mj-text>
+          <mj-text mj-class="pb2 text-larger text-light color-gray">Subheading</mj-text>
+          <mj-text>Primary information</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>

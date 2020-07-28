@@ -13,9 +13,9 @@
         <mj-column>
           <mj-table>
             <tr style="border-bottom: 1px solid #ebebeb;">
-              <th style="padding: 8px 8px 8px 16px; text-align: left; vertical-align: top; white-space: nowrap;" width="100%">Description</th>
-              <th style="padding: 8px; text-align: left; vertical-align: top; white-space: nowrap;">Quantity</th>
-              <th style="padding: 8px 16px 8px 8px; text-align: left; vertical-align: top; white-space: nowrap;">Amount</th>
+              <th style="padding: 8px 8px 8px 16px; font-weight: 600; text-align: left; vertical-align: top; white-space: nowrap;" width="100%">Description</th>
+              <th style="padding: 8px; font-weight: 600; text-align: left; vertical-align: top; white-space: nowrap;">Quantity</th>
+              <th style="padding: 8px 16px 8px 8px; font-weight: 600; text-align: left; vertical-align: top; white-space: nowrap;">Amount</th>
             </tr>
             <tr>
               <td colspan="2" style="padding: 2px 8px;"></td>
@@ -48,7 +48,7 @@
       <mj-section mj-class="px4 pt3 pb4">
         <mj-column>
           <mj-button mj-class="pt0" href="*|LIST:URL|*">Pay membership dues</mj-button>
-          <mj-text>If paying by check, ensure your name listed in the memo line. Please remit payment to:</mj-text>
+          <mj-text>If paying by check, ensure your name is listed in the memo line. Please remit payment to:</mj-text>
           <mj-text mj-class="pl2 py2"><strong>Attention:</strong> Treasurer<br><strong>*|LIST:COMPANY|*</strong><br>PO Box 13798<br>Birmingham, AL 35202</mj-text>
           <mj-text>Please contact <a href="mailto:finance@rotaractbhm.org">VP Finance</a> should you have any questions regarding your invoice or would like assistance in the form of an employer letter.</mj-text>
         </mj-column>

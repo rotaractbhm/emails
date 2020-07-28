@@ -67,7 +67,7 @@
       </mj-section>
       <mj-section mj-class="px2">
         <mj-column>
-          <mj-button mj-class="button-wide py0" href="*|LIST:URL|*sponsors/">Support our initiatives, become a sponsor</mj-button>
+          <mj-button mj-class="py0" href="*|LIST:URL|*sponsors/">Support our initiatives, become a sponsor</mj-button>
         </mj-column>
       </mj-section>
     </mj-wrapper>

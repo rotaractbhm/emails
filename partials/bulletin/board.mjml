@@ -2,14 +2,10 @@
   <mj-body>
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
-      <mj-section mj-class="px4 pt4">
+      <mj-section mj-class="px4 pt4 pb2">
         <mj-column>
           <mj-text mj-class="text-serif text-largest">Board of Directors</mj-text>
-          <mj-text mj-class="text-larger text-light color-gray">Meeting Schedule</mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section mj-class="px4 py2">
-        <mj-column>
+          <mj-text mj-class="pb2 text-larger text-light color-gray">Meeting Schedule</mj-text>
           <mj-text>Rotaract Board meetings are open to all Club members. Meetings are held at 5:30pm, unless noted otherwise. Please reach out to any Board member if you are interested in attending.</mj-text>
         </mj-column>
       </mj-section>
