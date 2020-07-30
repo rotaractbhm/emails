@@ -5,8 +5,7 @@
       <mj-section mj-class="px4 pt4 pb3">
         <mj-column>
           <mj-text mj-class="text-serif text-largest">Luncheon Speakers</mj-text>
-          <mj-text mj-class="pb2 text-larger text-light color-gray">Speaker Name &amp; Speaker Name</mj-text>
-          <mj-text>Club luncheons are held in Beeson Hall on the third floor of the <a href="https://goo.gl/maps/TgxDUrSMcf68DmMm7">Harbert Center</a>. If you would like to invite a guest to lunch, please email <a href="mailto:recruitment@rotaractbhm.org">VP Recruitment</a>.</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">*|DATE:F Y|*</mj-text>
         </mj-column>
       </mj-section>
       <mj-section mj-class="px1 pb1">
@@ -25,6 +24,11 @@
           <mj-text mj-class="px2 py1 datetime">Month Day at Time</mj-text>
           <mj-text mj-class="px2 pb2">Speaker biography</mj-text>
           <mj-button mj-class="px2 pt0" href="*|LIST:URL|*">Button</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="px4 py3 border-top">
+        <mj-column>
+          <mj-text mj-class="text-small color-gray">Club luncheons are held in Beeson Hall on the third floor of the <a href="https://goo.gl/maps/TgxDUrSMcf68DmMm7">Harbert Center</a>. If you would like to invite a guest to lunch, please email <a href="mailto:recruitment@rotaractbhm.org">VP Recruitment</a>.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>

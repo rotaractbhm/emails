@@ -4,7 +4,8 @@
     <mj-wrapper mj-class="section">
       <mj-section mj-class="px4 py4">
         <mj-column>
-          <mj-text mj-class="pb2 text-serif text-largest">Member Updates</mj-text>
+          <mj-text mj-class="text-serif text-largest">Member Updates</mj-text>
+          <mj-text mj-class="pb2 text-larger text-light color-gray">*|DATE:F Y|*</mj-text>
           <mj-text>
             <ul class="list">
               <li>Member update</li>

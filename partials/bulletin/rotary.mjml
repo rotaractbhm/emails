@@ -17,7 +17,7 @@
           <mj-table>
             <tr>
               <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
-              <td width="100%">Speaker Name, Speaker Title</td>
+              <td style="vertical-align: top;" width="100%">Speaker Name, Speaker Title</td>
             </tr>
           </mj-table>
           <mj-text mj-class="pt1">Description and/or information</mj-text>
@@ -31,7 +31,7 @@
           <mj-table>
             <tr>
               <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
-              <td width="100%">Speaker Name, Speaker Title</td>
+              <td style="vertical-align: top;" width="100%">Speaker Name, Speaker Title</td>
             </tr>
           </mj-table>
           <mj-text mj-class="pt1">Description and/or information</mj-text>
@@ -45,7 +45,7 @@
           <mj-table>
             <tr>
               <td style="padding-right: 16px; white-space: nowrap; vertical-align: top;"><strong>mm/dd</strong></td>
-              <td width="100%">Speaker Name, Speaker Title</td>
+              <td style="vertical-align: top;" width="100%">Speaker Name, Speaker Title</td>
             </tr>
           </mj-table>
           <mj-text mj-class="pt1">Description and/or information</mj-text>

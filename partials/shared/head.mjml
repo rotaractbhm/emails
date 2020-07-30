@@ -11,7 +11,7 @@
       <mj-image border-radius="4px"></mj-image>
       <mj-button padding="16px 0" inner-padding="8px 16px" background-color="#c5205a" border-radius="4px" color="white" align="left"></mj-button>
       <mj-social-element padding="8px"></mj-social-element>
-      <mj-spacer height="16px"></mj-spacer>
+      <mj-spacer height="8px"></mj-spacer>
 
       <mj-class name="section" background-color="white" border-radius="4px"></mj-class>
       <mj-class name="button-text" padding="0" inner-padding="0" background-color="transparent"></mj-class>

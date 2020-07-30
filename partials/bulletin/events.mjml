@@ -3,12 +3,10 @@
     <mj-include path="../shared/spacer.mjml" />
     <mj-wrapper mj-class="section">
       <mj-section mj-class="px4 py4">
-        <mj-group>
-          <mj-column>
-            <mj-text mj-class="text-serif text-largest">Event Schedule</mj-text>
-            <mj-text mj-class="text-larger text-light color-gray">*|DATE:F Y|*</mj-text>
-          </mj-column>
-        </mj-group>
+        <mj-column>
+          <mj-text mj-class="text-serif text-largest">Event Schedule</mj-text>
+          <mj-text mj-class="text-larger text-light color-gray">*|DATE:F Y|*</mj-text>
+        </mj-column>
       </mj-section>
       <mj-section mj-class="pl4 pr2 py2 border-top">
         <mj-group>

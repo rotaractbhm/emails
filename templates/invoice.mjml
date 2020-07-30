@@ -1,4 +1,4 @@
-<mjml lang="en">
+<mjml lang="en" owa="desktop">
   <mj-include path="../partials/shared/head.mjml" />
   <mj-body>
     <mj-include path="../partials/shared/archive.mjml" />

@@ -55,9 +55,9 @@
       </mj-section>
       <mj-section mj-class="px4 py3 border-top">
         <mj-column>
-          <mj-text mj-class="text-small color-gray">&sup1; Payments not received within thirty (30) days of the invoice date will be subject to a $25 late fee.</mj-text>
-          <mj-text mj-class="pt2 text-small color-gray">&sup2; Semi-annual installment plans are also available (subject to a $5 convenience fee per payment), for two (2) payments of $190 in lieu of one (1) $370 payment. Please note that if you choose to pay in installments, you remain obligated to pay both installments even if you choose to leave the Club at any time during the year.</mj-text>
-          <mj-text mj-class="pt2 text-small color-gray">&sup3; Members are required to purchase two (2) tickets for the annual Foundation Ball benefitting the Rotaract Club of Birmingham Foundation. Members may purchase their Foundation Ball tickets early to fulfill all financial obligations for the term. Should you opt to not purchase tickets at this time you will be invoiced in January.</mj-text>
+          <mj-text mj-class="text-small color-gray">&sup1;&nbsp;Payments not received within thirty (30) days of the invoice date are subject to a $25 late fee.</mj-text>
+          <mj-text mj-class="pt2 text-small color-gray">&sup2;&nbsp;Semi-annual installment plans are also available (subject to a $5 convenience fee per payment), for two (2) payments of $190 in lieu of one (1) $370 payment. Please note that if you choose to pay in installments, you remain obligated to pay both installments even if you choose to leave the Club at any time during the year.</mj-text>
+          <mj-text mj-class="pt2 text-small color-gray">&sup3;&nbsp;Members are required to purchase two (2) tickets for the annual Foundation Ball benefitting the Rotaract Club of Birmingham Foundation. Members may purchase their Foundation Ball tickets early to fulfill all financial obligations for the term. Should you opt to not purchase tickets at this time you will be invoiced in January.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
